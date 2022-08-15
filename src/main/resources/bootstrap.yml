@@ -1,6 +1,6 @@
 spring:
   application:
-    name: config-microservice01-discovery
+    name: config-microservice02-discovery
 
   cloud:
     config:
